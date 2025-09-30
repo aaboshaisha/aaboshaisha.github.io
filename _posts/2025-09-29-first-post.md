@@ -67,9 +67,8 @@ Create `index.md` in your repository root:
 ---
 layout: home
 ---
-```
-```markdown
-Welcome to my blog! This is where I'll share my data science notebooks and thoughts.
+
+"Welcome to my blog! This is where I'll share my data science notebooks and thoughts."
 ```
 
 **Create your first post:**
@@ -82,9 +81,8 @@ layout: post
 title: "My First Post"
 date: 2024-12-29
 ---
-```
-```markdown
-This is my first blog post! Soon I'll be adding Jupyter notebook posts here.
+
+"This is my first blog post! Soon I'll be adding Jupyter notebook posts here."
 ```
 
 The minima theme will automatically:
@@ -100,17 +98,12 @@ Commit and push both files, then check your site in a few minutes.
 ```yaml
 ---
 layout: home
+---
 ```
 
 That's called **YAML front matter** - it's a Jekyll convention for adding metadata to pages and posts.
 
 The part between the `---` lines is YAML (a data format) that tells Jekyll how to process the file:
-
-```yaml
----
-layout: home
----
-```
 
 This tells Jekyll:
 - Use the "home" layout template (which shows a list of blog posts)
