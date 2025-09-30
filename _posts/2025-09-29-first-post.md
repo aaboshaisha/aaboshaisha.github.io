@@ -75,6 +75,7 @@ layout: home
 1. Create a `_posts` folder
 2. Inside `_posts`, create a file named `2024-12-29-my-first-post.md` (use today's date)
 3. Add this content:
+
 ```yaml
 ---
 layout: post
