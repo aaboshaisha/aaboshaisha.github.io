@@ -4,8 +4,6 @@ title: "The Life of an Internet Packet"
 date: 2026-03-15
 ---
 
-# The life of a packet
-
 What happens when one types `www.wikipedia.org` in the browser?
 
 First, `www.wikipedia.org` has to be translated to an IP address. This is done via the DNS system ("phone book" of the internet — translating human-readable names like `www.wikipedia.org` into IP addresses).
