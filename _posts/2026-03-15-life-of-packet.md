@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Life of a Packet"
+title: "The Life of an Internet Packet"
 date: 2026-03-15
 ---
 
